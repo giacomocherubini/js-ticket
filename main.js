@@ -8,7 +8,7 @@ if (eta < 18)
 {alert (prezzo_biglietto / 100 * 80 );
 }
 
-if (eta > 65)
+ else if (eta > 65)
 {alert (prezzo_biglietto /100 * 60);
 }
 
